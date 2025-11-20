@@ -1,0 +1,12 @@
+C:\temp\DorApplication\bin\Release\DorApplication.exe.config
+C:\temp\DorApplication\bin\Release\DorApplication.exe
+C:\temp\DorApplication\bin\Release\DorApplication.pdb
+C:\temp\DorApplication\bin\Release\System.Management.Automation.xml
+C:\temp\DorApplication\obj\Release\DorApplication.csproj.AssemblyReference.cache
+C:\temp\DorApplication\obj\Release\DorApplication.csproj.SuggestedBindingRedirects.cache
+C:\temp\DorApplication\obj\Release\DorApplication.csproj.CoreCompileInputs.cache
+C:\temp\DorApplication\obj\Release\DorApplication.csproj.CopyComplete
+C:\temp\DorApplication\obj\Release\DorApplication.exe
+C:\temp\DorApplication\obj\Release\DorApplication.pdb
+C:\temp\DorApplication\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\temp\DorApplication\obj\Release\DorApplication.csproj.Fody.CopyLocal.cache

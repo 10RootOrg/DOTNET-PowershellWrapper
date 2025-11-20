@@ -1,0 +1,3 @@
+$file = New-Item -Path ".\hello.txt" -ItemType File -Force
+Set-Content -Path $file.FullName -Value "Hello World"
+Get-Service
