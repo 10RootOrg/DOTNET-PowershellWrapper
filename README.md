@@ -1,7 +1,8 @@
 # DOTNET-PowershellWrapper
 
 A .NET Framework console application that provides a wrapper to execute PowerShell scripts from within a C# application.
-
+**Video Tutorial**  
+[![Video Tutorial](https://img.youtube.com/vi/PjSVag-PVMg/0.jpg)](https://www.youtube.com/watch?v=PjSVag-PVMg)
 ## Features
 
 - Execute PowerShell scripts from files
